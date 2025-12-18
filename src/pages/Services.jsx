@@ -41,7 +41,7 @@ export function Services() {
                     <title>Services - Welding, Aluminium & Renovation | FVQ Rezky</title>
                     <meta name="description" content="Professional services: Aluminium fabrication, custom metal gates, home renovations, roofing, and welding works in KL & Selangor." />
                     <meta name="keywords" content="Aluminium Cabinets, Metal Gates, House Renovation, Roofing Contractors, Welding Services, Grille Work, Staircase Railing, Glass Partition" />
-                    <link rel="canonical" href="https://fvqrezky.com/services" />
+                    <link rel="canonical" href="https://fvqrezkyenterprise.site/services" />
                 </Helmet>
 
                 <div className="text-center mb-16 space-y-4">

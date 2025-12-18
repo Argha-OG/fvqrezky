@@ -15,7 +15,7 @@ export function About() {
                 <title>About Us - Trusted Contractors | FVQ Rezky Enterprise</title>
                 <meta name="description" content="Learn about FVQ Rezky Enterprise. Over 10 years of experience in welding and renovation. Dedicated to quality and customer satisfaction in KL & Selangor." />
                 <meta name="keywords" content="About FVQ Rezky, Trusted Contractor KL, Experienced Welders, Renovation Company History, Metalwork Experts, Professional Fabricators Malaysia" />
-                <link rel="canonical" href="https://fvqrezky.com/about" />
+                <link rel="canonical" href="https://fvqrezkyenterprise.site/about" />
             </Helmet>
 
             {/* Hero Section */}

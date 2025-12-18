@@ -31,7 +31,7 @@ export function Portfolio() {
                     <title>Portfolio - Our Projects | FVQ Rezky Enterprise</title>
                     <meta name="description" content="View our gallery of completed welding, aluminium, and renovation projects. See the quality of our craftsmanship in KL & Selangor." />
                     <meta name="keywords" content="Project Gallery, Metal Work Portfolio, Renovation Examples, Custom Gates Design, Aluminium Kitchen Photos, Roofing Projects" />
-                    <link rel="canonical" href="https://fvqrezky.com/portfolio" />
+                    <link rel="canonical" href="https://fvqrezkyenterprise.site/portfolio" />
                 </Helmet>
 
                 <div className="text-center mb-12 space-y-4">

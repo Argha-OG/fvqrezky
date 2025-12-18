@@ -55,7 +55,7 @@ export function FAQ() {
                 <title>FAQ - Frequently Asked Questions | FVQ Rezky Enterprise</title>
                 <meta name="description" content="Get answers to common questions about welding, aluminium fabrication, and renovation services in KL & Selangor. Project timelines, warranties, pricing, and more." />
                 <meta name="keywords" content="Welding FAQ, Renovation Questions, Contractor FAQ KL, Aluminium Work Questions, Project Timeline, Warranty Information" />
-                <link rel="canonical" href="https://fvqrezky.com/faq" />
+                <link rel="canonical" href="https://fvqrezkyenterprise.site/faq" />
             </Helmet>
 
             <div className="relative h-[40vh] overflow-hidden bg-zinc-950">

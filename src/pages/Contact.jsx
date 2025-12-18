@@ -21,7 +21,7 @@ export function Contact() {
                 <title>Contact Us - Get a Quote | FVQ Rezky Enterprise</title>
                 <meta name="description" content="Contact FVQ Rezky for a free quote. Visit our branches in Jalan Gombak (KL) and Selangor. Call +60 11 2389 2010 today." />
                 <meta name="keywords" content="Contact Contractor, Get Renovation Quote, Welding Quote KL, FVQ Rezky Phone Number, Location Gombak, Location Selangor" />
-                <link rel="canonical" href="https://fvqrezky.com/contact" />
+                <link rel="canonical" href="https://fvqrezkyenterprise.site/contact" />
             </Helmet>
 
             {/* Modern Hero Banner */}

@@ -20,39 +20,39 @@ export function Home() {
     return (
         <>
             <Helmet>
-                <title>Welding & Aluminium Services KL | FVQ Rezky Enterprise</title>
-                <meta name="description" content="Expert welding, aluminium fabrication, and home renovation services in Kuala Lumpur & Selangor. Custom gates, grilles, roofing, and more. Get a free quote today!" />
-                <meta name="keywords" content="Welding Services KL, Aluminium Fabrication Selangor, Home Renovation Malaysia, Custom Metal Gates, Window Grilles, Awning Installation, Polycarbonate Roofing, Iron Works Gombak, Steel Works KL, Glass Works, Auto Gate Systems, Security Doors, Kitchen Cabinets, Wardrobe Systems, FVQ Rezky Enterprise, Tukang Besi KL, Renovation Contractor" />
-                <link rel="canonical" href="https://fvqrezky.com/" />
+                <title>FVQ REZKY ENTERPRISE - Aluminium, Glass & Metal Works | Gombak, Setapak & KL</title>
+                <meta name="description" content="FVQ REZKY ENTERPRISE is a leading expert in Aluminium, Glass, and Metal Fabrication serving Gombak, Setapak, Wangsa Maju, and Kuala Lumpur. We specialize in modern Aluminium Sliding Doors, custom Besi Gates, and Stainless Steel Railings." />
+                <meta name="keywords" content="Aluminium work Setapak, Besi gate Danau Kota, Pagar besi Gombak, Awnings Batu Caves, Pintu aluminium Cheras, Awning rumah Seri Kembangan, Metal fabrication Klang Valley, Pakar Aluminium & Kaca, Custom Metal Fabrication KL, Stainless Steel Railing Malaysia, Pagar Besi Moden, Sliding Door Aluminium Murah, Glass Partition Pejabat, Awning Car Porch, Tukang Besi KL" />
+                <link rel="canonical" href="https://fvqrezkyenterprise.site/" />
 
                 {/* Open Graph / Facebook */}
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://fvqrezky.com/" />
-                <meta property="og:title" content="Welding & Aluminium Services KL | FVQ Rezky Enterprise" />
-                <meta property="og:description" content="Expert welding, aluminium fabrication, and home renovation services in Kuala Lumpur & Selangor. Custom gates, grilles, roofing, and more." />
+                <meta property="og:url" content="https://fvqrezkyenterprise.site/" />
+                <meta property="og:title" content="FVQ REZKY ENTERPRISE - Aluminium, Glass & Metal Works | Gombak, Setapak & KL" />
+                <meta property="og:description" content="FVQ REZKY ENTERPRISE is a leading expert in Aluminium, Glass, and Metal Fabrication serving Gombak, Setapak, Wangsa Maju, and Kuala Lumpur." />
                 <meta property="og:image" content="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122" />
 
                 {/* Twitter */}
                 <meta property="twitter:card" content="summary_large_image" />
-                <meta property="twitter:url" content="https://fvqrezky.com/" />
-                <meta property="twitter:title" content="Welding & Aluminium Services KL | FVQ Rezky Enterprise" />
-                <meta property="twitter:description" content="Expert welding, aluminium fabrication, and home renovation services in Kuala Lumpur & Selangor." />
+                <meta property="twitter:url" content="https://fvqrezkyenterprise.site/" />
+                <meta property="twitter:title" content="FVQ REZKY ENTERPRISE - Aluminium, Glass & Metal Works | Gombak, Setapak & KL" />
+                <meta property="twitter:description" content="FVQ REZKY ENTERPRISE is a leading expert in Aluminium, Glass, and Metal Fabrication serving Gombak, Setapak, Wangsa Maju, and Kuala Lumpur." />
                 <meta property="twitter:image" content="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122" />
 
                 <script type="application/ld+json">
                     {JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "LocalBusiness",
-                        "name": "FVQ Rezky Enterprise",
+                        "name": "FVQ REZKY ENTERPRISE",
                         "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122",
-                        "@id": "https://fvqrezky.com",
-                        "url": "https://fvqrezky.com",
+                        "@id": "https://fvqrezkyenterprise.site",
+                        "url": "https://fvqrezkyenterprise.site",
                         "telephone": "+601123892010",
                         "email": "fvqrezkyenterprise@gmail.com",
                         "priceRange": "$$",
                         "address": {
                             "@type": "PostalAddress",
-                            "streetAddress": "Lot 123, Jalan Gombak",
+                            "streetAddress": "Taman Setapak/Gombak",
                             "addressLocality": "Kuala Lumpur",
                             "addressRegion": "Selangor",
                             "postalCode": "53100",
@@ -60,9 +60,27 @@ export function Home() {
                         },
                         "geo": {
                             "@type": "GeoCoordinates",
-                            "latitude": 3.205934,
-                            "longitude": 101.703777
+                            "latitude": 3.2119375,
+                            "longitude": 101.7076875
                         },
+                        "areaServed": [
+                            "Kuala Lumpur",
+                            "Gombak",
+                            "Setapak",
+                            "Danau Kota",
+                            "Batu Caves",
+                            "Wangsa Maju",
+                            "Melawati",
+                            "Sentul",
+                            "Titiwangsa",
+                            "Ampang",
+                            "Ulu Kelang",
+                            "Cheras",
+                            "Seri Kembangan",
+                            "Petaling Jaya",
+                            "Puchong",
+                            "Klang Valley"
+                        ],
                         "openingHoursSpecification": {
                             "@type": "OpeningHoursSpecification",
                             "dayOfWeek": [
